@@ -19,14 +19,14 @@ function addProductImage(req, res, next) {}
 function deleteProductImage(req, res, next) {}
 
 export default {
-  login,
-  getOrders,
-  getOrder,
-  setOrderStatus,
-  getProducts,
-  createOrUpdateProduct,
-  deleteProduct,
-  getProduct,
-  addProductImage,
-  deleteProductImage,
+	login,
+	getOrders,
+	getOrder,
+	setOrderStatus,
+	getProducts,
+	createOrUpdateProduct,
+	deleteProduct,
+	getProduct,
+	addProductImage,
+	deleteProductImage,
 };
